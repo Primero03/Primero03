@@ -1,4 +1,4 @@
-[![Typing](https://readme-typing-svg.herokuapp.com?color=%3066FFFF&lines=🍏+Hi!+I'm+Denis!+%20>💻)](http://ksergey.ru)
+[![Typing](https://readme-typing-svg.herokuapp.com?color=%3066FFFF&lines=🍏+Hi!+I'm+Denis!+%20💻)]()
 
 
 ⌨️
